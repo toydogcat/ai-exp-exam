@@ -2,6 +2,12 @@
 
 這是 `ai-exam` 專案的配套部落格，記錄國考題目的高品質轉換心得、解析與參考答案。
 
+- [台電 114 企業管理概論](/ai-exp-exam/taipower/2026/04/29/taipower-114-bm.html)
+- [台電 114 基本電學](/ai-exp-exam/taipower/2026/04/29/taipower-114-ee.html)
+- [台電 114 會計學概要](/ai-exp-exam/taipower/2026/04/29/taipower-114-acc.html)
+- [台電 114 輸配電學](/ai-exp-exam/taipower/2026/04/29/taipower-114-td.html)
+- [台電 114 行政學與法律常識](/ai-exp-exam/taipower/2026/04/29/taipower-114-law.html)
+
 - **心得與解析**：[https://toydogcat.github.io/ai-exp-exam/](https://toydogcat.github.io/ai-exp-exam/)
 - **線上測驗系統**：[AI Exam Quiz System](https://toydogcat.github.io/ai-exam/)
 
